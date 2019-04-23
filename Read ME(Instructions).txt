@@ -1,0 +1,11 @@
+Instructions to run the program:
+1)install pycrypto and requires python to run.
+2)There is file called PWD.txt in the project folder which contains all the dropbox keys and passwords
+3) If your starting completely new keep the group sharing folder by the name ACM Team Folder
+4)Running the software for the first time  u need to create users and Public and private keys.
+  --> USers you have to invite through dropbox
+  --> Then sign Up
+  -->while signing up u should use only a password with atleast one small letter,one capital letter , one number and a symbol should be used.
+
+	
+5) Then you can follow the document to do the rest of the stuff.
